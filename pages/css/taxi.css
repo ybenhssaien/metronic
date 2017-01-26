@@ -1,0 +1,10 @@
+.page-content{
+	margin-left: 0px !important;
+}
+.index-page-content{
+	padding-top:0px !important;
+}
+ul.nav li.nav-item.active {
+    background: #eee;
+    font-weight: bold;
+}
